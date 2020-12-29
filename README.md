@@ -22,7 +22,7 @@ My name is Leticia Freire and I'm currently doing my master on Computer Science.
 <summary> ⚡ &nbsp;Github Stats: </summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lefreire&show_icons=true&locale=en&layout=compact&theme=radical" alt="lefreire" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lefreire&show_icons=true&locale=en&theme=radical&count_private=true" alt="lefreire" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=lefreire&show_icons=true&locale=en&theme=radical&count_private=true" alt="lefreire" /></p>
 </details>
 
 
