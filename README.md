@@ -8,7 +8,7 @@ My name is Leticia Freire and I'm currently doing my master on Computer Science.
 
 <button style="background:#F5EEEE ; border:none;border-radius: 12px; cursor: pointer; padding: 12px 5px;font-size: 16px;margin: 4px 4px;text-align: center;float:left;"><a href="http://google.com/search?q=artificial+intelligence" style="color:#8A0886;">😵🔮 artificial intelligence</a></button>
 
-<button style="background:#F5EEEE ; border:none;border-radius: 12px; cursor: pointer; padding: 12px 5px;font-size: 16px;margin: 4px 4px;text-align: center;float:left;"><a href="http://google.com/search?q=genetic+algorithm" style="color:#4B088A;">🧬 genetic algorithm</a></button>
+<button style="background:#F5EEEE ; border:none;border-radius: 12px; cursor: pointer; padding: 12px 5px;font-size: 16px;margin: 4px 4px;text-align: center;float:left;"><a href="http://google.com/search?q=genetic+algorithm" style="color:#4B088A;background:#F5EEEE;">🧬 genetic algorithm</a></button>
 
 <button style="background:#F5EEEE ; border:none;border-radius: 12px; cursor: pointer; padding: 12px 5px;font-size: 16px;margin: 4px 4px;text-align: center;float:left;"><a href="http://google.com/search?q=statistical+relational+learning" style="color:#08088A;">🌳 📚 statistical relational learning</a></button>
 
